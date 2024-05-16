@@ -63,7 +63,7 @@ h1 {
 }
 
 .read-the-docs {
-  color: #888;
+  color:white
 }
 
 button {
@@ -83,6 +83,9 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+p{
+  color:blue
 }
 
 @media (prefers-color-scheme: light) {
