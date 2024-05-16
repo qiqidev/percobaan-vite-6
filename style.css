@@ -28,6 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background:yellow
 }
 
 h1 {
@@ -41,6 +42,7 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background: green;
 }
 
 .logo {
